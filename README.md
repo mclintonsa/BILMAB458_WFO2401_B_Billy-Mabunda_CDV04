@@ -22,7 +22,7 @@ Vulindlela is seeking a talented and motivated Junior React Developer to assist 
 1. Finalise your cover letter in a Google Docs format.
 2. Name your document as per the given format (e.g., "StudentNo_Classcode_Group_Name-Surname_CDV04").
 3. Add the link to your Google Docs cover letter in this README.
-4. Submit the link to your GitHub Repo via the LMS Project Tab by the deadline.
+4. Submit the link to your GitHub Repo via the LMS Project Tab by the deadline
 
 ### Link to Cover Letter
 [Your Google Docs Cover Letter](<https://docs.google.com/document/d/1KPmrsTZJhB5QhvUNpww5M1EDzja8AJQ8GC8zU4zujQw/edit?usp=sharing>)
